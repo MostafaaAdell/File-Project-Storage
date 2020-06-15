@@ -1,0 +1,14 @@
+c:\users\3shry\documents\visual studio 2015\Projects\file project final 2\file project final 2\bin\Debug\file project final 2.exe.config
+c:\users\3shry\documents\visual studio 2015\Projects\file project final 2\file project final 2\bin\Debug\file project final 2.exe
+c:\users\3shry\documents\visual studio 2015\Projects\file project final 2\file project final 2\bin\Debug\file project final 2.pdb
+c:\users\3shry\documents\visual studio 2015\Projects\file project final 2\file project final 2\obj\Debug\file_project_final_2.Form1.resources
+c:\users\3shry\documents\visual studio 2015\Projects\file project final 2\file project final 2\obj\Debug\file_project_final_2.Properties.Resources.resources
+c:\users\3shry\documents\visual studio 2015\Projects\file project final 2\file project final 2\obj\Debug\file project final 2.csproj.GenerateResource.Cache
+c:\users\3shry\documents\visual studio 2015\Projects\file project final 2\file project final 2\obj\Debug\file project final 2.exe
+c:\users\3shry\documents\visual studio 2015\Projects\file project final 2\file project final 2\obj\Debug\file project final 2.pdb
+c:\users\3shry\documents\visual studio 2015\Projects\file project final 2\file project final 2\obj\Debug\file project final 2.csprojResolveAssemblyReference.cache
+c:\users\3shry\documents\visual studio 2015\Projects\file project final 2\file project final 2\obj\Debug\file_project_final_2.equalForm.resources
+D:\file project final 2\file project final 2\bin\Debug\file project final 2.exe.config
+D:\file project final 2\file project final 2\obj\Debug\file project final 2.exe
+D:\file project final 2\file project final 2\obj\Debug\file project final 2.pdb
+D:\file project final 2\file project final 2\obj\Debug\file project final 2.csprojResolveAssemblyReference.cache
